@@ -1,4 +1,4 @@
 # hello-world
-Learning Git
+Github Learning.
 Hello, I am new with GIT so i am trying to learn how it works.
-chekc has done.
+check has done.
